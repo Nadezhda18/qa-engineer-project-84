@@ -97,6 +97,6 @@ status: pass
 
 23- summary: |
     Прверка удобства использования сайта в мобильной версии
-status: pass
+status: fail
 
 
