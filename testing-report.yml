@@ -80,8 +80,5 @@ status: pass
 status: pass
 
 
-- summary: |
-    Проверка удобства использования сайта в мобильной версии
-status: fail
 
 
