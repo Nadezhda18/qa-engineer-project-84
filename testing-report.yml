@@ -1,83 +1,83 @@
 ---
 - summary: |
     Проверка добавления товары в корзину
-status: pass
+  status: pass
 
 - summary: |
     Проверка открытия карточки товара
-status: pass
+  status: pass
 
 - summary: |
     Проверка фильтрации товаров по категориям
-status: pass
+  status: pass
 
 - summary: |
     Проверка фильтрации товаров по производителям/брендам
-status: pass
+  status: pass
 
 - summary: |
     Проверка фильтрации товаров по их наличию в магазине
-status: pass
+  status: pass
 
 - summary: |
     Проверка фильтрации товаров по цене
-status: pass
+  status: pass
 
 - summary: |
     Проверка поиска товара по ключевому слову
-status: fail
+  status: fail
 
 - summary: |
     Проверка сброса фильтра по категории
-status: fail
+  status: fail
 
 - summary: |
     Проверка сброса фильтра по производителям  
-status: pass
+  status: pass
 
 - summary: |
     Проверка сброса фильтра по цене
-status: pass
+  status: pass
 
 - summary: |
-    Проверка возможности изменить язык сайта на русский
-status: fail
+    Проверка изменения языка сайта на русский
+  status: fail
 
 - summary: |
     Проверка сохранения выбранного пользователем языка после перезагрузки страницы
-status: fail
+  status: fail
 
 - summary: |
     Проверка просмотра товаров при перемещении по страницам
-status: fail
+  status: fail
 
 - summary: |
     Проверка полного очищения корзину одним действием
-status: pass
+  status: pass
 
 - summary: |
     Проверка выборочного удаления товаров из корзины
-status: pass
+  status: pass
 
 - summary: |
     Проверка изменения количества товаров в корзине
-status: fail
+  status: fail
 
 - summary: |
     Проверка перехода в карточку определенного товара из корзины пользователя
-status: pass
+  status: pass
 
 - summary: |
     Проверка кроссбраузерности сайта
-status: pass
+  status: pass
 
 - summary: |
     Проверка работы сайта на мобильных устройствах
-status: pass
+  status: pass
 
 - summary: |
     Проверка работы сайта на различных устройствах
-status: pass
+  status: pass
 
 
 
